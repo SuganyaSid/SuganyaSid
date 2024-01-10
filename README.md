@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Microsoft Window Defender </b>
+- <b>Active Directory homeLab </b>
 
 <h2> 👨‍💻 Certification:</h2>
 
