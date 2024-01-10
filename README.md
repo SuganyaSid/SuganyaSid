@@ -9,6 +9,7 @@
 
 - <b> Google Cybersecurity professional certification
 - <b> Cisco Certified Network Associate (CCNA)
+- <b> Completed Cisco Network Academy's Introduction to Cybersecurity certification
 
 <h2> Currently working on:</h2>
 
